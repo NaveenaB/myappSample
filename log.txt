@@ -1,3 +1,1 @@
-console.log "hello"
-console.log "adding another comment"
-console.log "adding another comment2"
+"hello" 
